@@ -1,3 +1,5 @@
+![o_1dkcr0326caah1c1rvb16k519uer](https://github.com/numaanfarooq/CervicalCancerPrediction/assets/144113131/cb74459f-1eaa-46d0-8aa3-be02acf8ea1d)
+
 Introduction
 Cervical cancer is a prevalent form of cancer affecting women worldwide, primarily caused by human papillomavirus (HPV) infection. Despite advancements in medical technology and awareness campaigns, cervical cancer remains a leading cause of cancer-related mortality among women, emphasizing the need for improved screening and detection methods.
 
@@ -21,4 +23,8 @@ The trained models will be evaluated using accuracy, precision, recall, F1-score
 
 Conclusion
 This project aims to contribute to combating cervical cancer by developing a predictive model for early detection. Leveraging machine learning techniques and real-world data, the project aims to enhance screening programs and improve patient outcomes.
+
+
+![download (2)](https://github.com/numaanfarooq/CervicalCancerPrediction/assets/144113131/65feb90b-d500-456c-89f1-2dc24151b714)
+
 
